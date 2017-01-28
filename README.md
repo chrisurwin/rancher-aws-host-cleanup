@@ -10,4 +10,4 @@ An assumption is made that the hostname of the host to be checked is the private
 If this name is different then the host will not be removed from Rancher. Hosts from other providers will generate an error in the log but will be otherwise untouched.
 
 ### Usage
-To use the build container please use the library entry in the Rancher Community library
+To use the built container please use the library entry in the Rancher Community library
